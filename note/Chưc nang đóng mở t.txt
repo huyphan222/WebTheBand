@@ -1,0 +1,19 @@
+1) lấy tất cả class có tên .js-buy-ticket
+const buyBtns = document.querySelectorAll('.js-buy-ticket')
+
+2) thêm sự kiện listenner vào mỗi class lấy được
+ for(const buyBtn of buyBtns)
+        {
+            buyBtn.addEventListener('click',showBuyTicket)
+        }
+
+3) hàm classlist thêm class có sẵn 
+const modal =document.querySelector('.modal'); => lấy ra hàm modal
+
+.modal.open {
+    display:flex;
+}
+
+ function showBuyTicket(){
+                modal.classList('open')
+        }

@@ -1,0 +1,27 @@
+margin left:auto
+margin right:auto
+- se tu dong day ra giua
+
+
+-letter spacing: đẩy khoảng cách từng chữ ra
+
+
+-opacity: làm mờ chữ đi 
+
+
+-line height: chỉnh độ cao của 1 dòng
+
+
+-float:left : list hàng dọc sang hàng ngang
+
+-width: 33.333%; chia cac item ra full width môi ông chiêm 33.3% 3 ông
+
+- sử dụng float các thuộc tính cha sẽ không bao mấy tg con để khắc phục 
+  1: dùng overflow cho thuôc tính cha, 2: để 1 <div class="clear"> ở dưới cùng mục cha , con vào css clear:both
+
+
+- thẻ có tính chất inline bỏ float vào thành block
+ + float : sẽ thêm đc width , height margin : đc thuộc tính âm
+
+
+

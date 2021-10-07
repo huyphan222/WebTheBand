@@ -1,0 +1,17 @@
+1.header
+ -navbar
+2 slider
+
+3.content
+ 3.1 : about
+ 3.2 : tour
+ 3.3 : contact
+ 3.4 : image
+ 3.5 : footer 
+
+
+
+Part 2: Dung base (xay mong)
+
+Part 3: 
+  

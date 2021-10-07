@@ -1,0 +1,20 @@
+#slider{
+    margin-top: 46px;     // vì navbar là fixed nên nổi lên trên slider nổi lên luôn cả navbar
+    padding-top: 50%;    // co giãn theo size màn hình đúng 50% 
+    background-image: url('/assets/img/ny.jpg');   // đường dẫn ảnh
+    background-position: top center;     // căn chỉnh vị trí cho background
+    background-size: cover;      // 
+    background-repeat: no-repeat;   // không lặp lại
+    
+}
+
+
+
+
+2 : làm sao để căn giữa elemnt : + dùng position absolute
+				 + width 100%;
+				 + left 0 right:0 
+
+
+3: dùng z-index để 1 element nào đó nổi lên trên che các element nổi dưới
+   

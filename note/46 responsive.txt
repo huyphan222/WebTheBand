@@ -1,0 +1,29 @@
+- media querries  
+  
+ @media(max-width:800): nhỏ hơn 800 thì hoạt động
+ @media(min-width:800): lớn hơn 800 thì hoạt động
+
+pc: >= 1024 px
+table: >=740 px && < 1024 px
+mobule : < 740 px 
+
+
+
+ul > li:first-child : ăn li thuộc tính đầu
+
+
+display:inline-block : hover chi trong element cua no
+display: block- an het chieu ngang theo the cha
+
+
+
+
+-khi để 3 col trên 1 row là 33,3333%  Muốn để full ta để mỗi element là width:100%
+
+nó sẽ tự động chiếm full màn hình mỗi element là 1 row tiện cho mobile screen 
+
+
+- shadow text: khi check thấy chữ khó nhìn ở background -image or color dùng shadow text để làm nổi lên chữ
+
+
+
